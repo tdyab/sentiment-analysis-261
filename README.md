@@ -9,3 +9,4 @@ The goal of this project is to use machine learning models capable of sentiment 
 - `model.joblib`: Trained ML model saved for inference.
 - `requirements.txt`: List of dependencies.
 - `report.pdf`: Detailed report including methods, results, and discussion.
+jupyter notebook cmps261.ipynb
