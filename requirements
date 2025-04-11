@@ -1,0 +1,7 @@
+pandas
+matplotlib
+wordcloud
+scikit-learn
+imbalanced-learn
+xgboost
+joblib
