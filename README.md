@@ -5,7 +5,7 @@ The goal of this project is to use machine learning models capable of sentiment 
 
 ## Repository Contents
 
-- `sentimentclassification.ipynb`: Jupyter notebook with code, data processing, model training, and evaluation.
+- `cmps261.ipynb`: Jupyter notebook with code, data processing, model training, and evaluation.
 - `model.joblib`: Trained ML model saved for inference.
 - `requirements.txt`: List of dependencies.
 - `report.pdf`: Detailed report including methods, results, and discussion.
