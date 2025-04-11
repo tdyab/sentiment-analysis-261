@@ -1,5 +1,4 @@
 # Mental Health Text Classification - CMPS 261 Project
-### by Tala Diab and Ralph El Skaff
 
 The goal of this project is to use machine learning models capable of sentiment classification on a dataset of mental health-related text statements.
 
