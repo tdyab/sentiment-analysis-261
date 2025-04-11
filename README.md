@@ -5,6 +5,6 @@ The goal of this project is to use machine learning models capable of sentiment 
 
 ## Repository Contents
 
-- `cmps261.ipynb`: Jupyter notebook with code, data processing, model training, and evaluation.
+- `sentiment_analysis`: Jupyter notebook with code, data processing, model training, and evaluation.
 - `requirements.txt`: List of dependencies.
 - `report.pdf`: Detailed report including methods, results, and discussion.
